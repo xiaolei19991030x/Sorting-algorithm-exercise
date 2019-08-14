@@ -3,7 +3,7 @@
 
 ### 排序算法
 
-- [x] [冒泡排序](Markdown/Sort/冒泡排序.md)
+
 - [x] [选择排序](SelectSort.java)
 - [x] [直接插入排序](InsertSort.java)
 - [x] [快速排序](quickSort.java)
